@@ -1,3 +1,1 @@
-hello this is my file1 
-modified status
-""""Content added by feature-x""""""
+modified by feature-x 
