@@ -1,3 +1,2 @@
 hello this is my file1 
-modified status
-""""Content added by feature-x""""""
+modiefied by master only master
